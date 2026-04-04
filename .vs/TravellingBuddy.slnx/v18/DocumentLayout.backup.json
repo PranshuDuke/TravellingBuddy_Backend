@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11F7F078-F025-6A4A-74E8-2A5CDDB49F58}|TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7F078-F025-6A4A-74E8-2A5CDDB49F58}|TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj|solutionrelative:travellingbuddy.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21BDBB7-6CAE-4DD1-ACFB-49BA3B66471A}|TravellingBuddy.API\\TravellingBuddy.API.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A21BDBB7-6CAE-4DD1-ACFB-49BA3B66471A}|TravellingBuddy.API\\TravellingBuddy.API.csproj|solutionrelative:travellingbuddy.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F7F078-F025-6A4A-74E8-2A5CDDB49F58}|TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.infrastructure\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7F078-F025-6A4A-74E8-2A5CDDB49F58}|TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj|solutionrelative:travellingbuddy.infrastructure\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21BDBB7-6CAE-4DD1-ACFB-49BA3B66471A}|TravellingBuddy.API\\TravellingBuddy.API.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21BDBB7-6CAE-4DD1-ACFB-49BA3B66471A}|TravellingBuddy.API\\TravellingBuddy.API.csproj|solutionrelative:travellingbuddy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21BDBB7-6CAE-4DD1-ACFB-49BA3B66471A}|TravellingBuddy.API\\TravellingBuddy.API.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21BDBB7-6CAE-4DD1-ACFB-49BA3B66471A}|TravellingBuddy.API\\TravellingBuddy.API.csproj|solutionrelative:travellingbuddy.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C6F4F-7393-62C9-9A66-1B5E660CD1A8}|TravellingBuddy.Application\\TravellingBuddy.Application.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C6F4F-7393-62C9-9A66-1B5E660CD1A8}|TravellingBuddy.Application\\TravellingBuddy.Application.csproj|solutionrelative:travellingbuddy.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C6F4F-7393-62C9-9A66-1B5E660CD1A8}|TravellingBuddy.Application\\TravellingBuddy.Application.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C6F4F-7393-62C9-9A66-1B5E660CD1A8}|TravellingBuddy.Application\\TravellingBuddy.Application.csproj|solutionrelative:travellingbuddy.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C6F4F-7393-62C9-9A66-1B5E660CD1A8}|TravellingBuddy.Application\\TravellingBuddy.Application.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C6F4F-7393-62C9-9A66-1B5E660CD1A8}|TravellingBuddy.Application\\TravellingBuddy.Application.csproj|solutionrelative:travellingbuddy.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C6F4F-7393-62C9-9A66-1B5E660CD1A8}|TravellingBuddy.Application\\TravellingBuddy.Application.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C6F4F-7393-62C9-9A66-1B5E660CD1A8}|TravellingBuddy.Application\\TravellingBuddy.Application.csproj|solutionrelative:travellingbuddy.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F7F078-F025-6A4A-74E8-2A5CDDB49F58}|TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.infrastructure\\travellingbuddy.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11F7F078-F025-6A4A-74E8-2A5CDDB49F58}|TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj|solutionrelative:travellingbuddy.infrastructure\\travellingbuddy.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F7F078-F025-6A4A-74E8-2A5CDDB49F58}|TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7F078-F025-6A4A-74E8-2A5CDDB49F58}|TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj|solutionrelative:travellingbuddy.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|solutionrelative:travellingbuddy.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|solutionrelative:travellingbuddy.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.domain\\entities\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|solutionrelative:travellingbuddy.domain\\entities\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|solutionrelative:travellingbuddy.domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.domain\\travellingbuddy.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|solutionrelative:travellingbuddy.domain\\travellingbuddy.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.domain\\enums\\ridestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|solutionrelative:travellingbuddy.domain\\enums\\ridestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.domain\\enums\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|solutionrelative:travellingbuddy.domain\\enums\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C6F4F-7393-62C9-9A66-1B5E660CD1A8}|TravellingBuddy.Application\\TravellingBuddy.Application.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.application\\travellingbuddy.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD0C6F4F-7393-62C9-9A66-1B5E660CD1A8}|TravellingBuddy.Application\\TravellingBuddy.Application.csproj|solutionrelative:travellingbuddy.application\\travellingbuddy.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21BDBB7-6CAE-4DD1-ACFB-49BA3B66471A}|TravellingBuddy.API\\TravellingBuddy.API.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.api\\travellingbuddy.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A21BDBB7-6CAE-4DD1-ACFB-49BA3B66471A}|TravellingBuddy.API\\TravellingBuddy.API.csproj|solutionrelative:travellingbuddy.api\\travellingbuddy.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|c:\\users\\singh\\source\\repos\\travellingbuddy\\travellingbuddy.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA01969F-389E-DCFA-1588-83BCEE9B70FB}|TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj|solutionrelative:travellingbuddy.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "TravellingBuddy.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:27:53.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "TravellingBuddy.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:24:48.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Application\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Application\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Application\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "TravellingBuddy.Application\\DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:24:15.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "TravellingBuddy.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:20:49.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Infrastructure\\Auth\\JwtService.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Infrastructure\\Auth\\JwtService.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Infrastructure\\Auth\\JwtService.cs",
+              "RelativeToolTip": "TravellingBuddy.Infrastructure\\Auth\\JwtService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAawCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:48:21.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.API\\Program.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.API\\Program.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.API\\Program.cs",
+              "RelativeToolTip": "TravellingBuddy.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:39:57.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Infrastructure\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Infrastructure\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Infrastructure\\Auth\\AuthService.cs",
+              "RelativeToolTip": "TravellingBuddy.Infrastructure\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAASwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:44:26.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TravellingBuddy.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.API\\appsettings.json",
+              "RelativeToolTip": "TravellingBuddy.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T12:07:59.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TravellingBuddy.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:54:46.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TravellingBuddy.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T04:54:09.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RideStatus.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Enums\\RideStatus.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Domain\\Enums\\RideStatus.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Enums\\RideStatus.cs",
+              "RelativeToolTip": "TravellingBuddy.Domain\\Enums\\RideStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:08:45.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TravellingBuddy.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj",
+              "RelativeDocumentMoniker": "TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj",
+              "RelativeToolTip": "TravellingBuddy.Domain\\TravellingBuddy.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T16:03:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TravellingBuddy.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj",
+              "RelativeToolTip": "TravellingBuddy.Infrastructure\\TravellingBuddy.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T16:01:39.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingStatus.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Enums\\BookingStatus.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Domain\\Enums\\BookingStatus.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Enums\\BookingStatus.cs",
+              "RelativeToolTip": "TravellingBuddy.Domain\\Enums\\BookingStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:09:23.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Domain\\Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Entities\\Booking.cs",
+              "RelativeToolTip": "TravellingBuddy.Domain\\Entities\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:12:15.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TravellingBuddy.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Application\\TravellingBuddy.Application.csproj",
+              "RelativeDocumentMoniker": "TravellingBuddy.Application\\TravellingBuddy.Application.csproj",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Application\\TravellingBuddy.Application.csproj",
+              "RelativeToolTip": "TravellingBuddy.Application\\TravellingBuddy.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T16:02:11.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Entities\\Ride.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Domain\\Entities\\Ride.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Entities\\Ride.cs",
+              "RelativeToolTip": "TravellingBuddy.Domain\\Entities\\Ride.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:11:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TravellingBuddy.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:10:11.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Domain\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Entities\\City.cs",
+              "RelativeToolTip": "TravellingBuddy.Domain\\Entities\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:11:47.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TravellingBuddy.API.csproj",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.API\\TravellingBuddy.API.csproj",
+              "RelativeDocumentMoniker": "TravellingBuddy.API\\TravellingBuddy.API.csproj",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.API\\TravellingBuddy.API.csproj",
+              "RelativeToolTip": "TravellingBuddy.API\\TravellingBuddy.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T16:01:01.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "TravellingBuddy.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\TravellingBuddy\\TravellingBuddy.Domain\\Class1.cs",
+              "RelativeToolTip": "TravellingBuddy.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:39:38.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

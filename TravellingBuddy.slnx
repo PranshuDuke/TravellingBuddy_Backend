@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TravellingBuddy.API/TravellingBuddy.API.csproj" />
+  <Project Path="TravellingBuddy.Application/TravellingBuddy.Application.csproj" />
+  <Project Path="TravellingBuddy.Domain/TravellingBuddy.Domain.csproj" />
+  <Project Path="TravellingBuddy.Infrastructure/TravellingBuddy.Infrastructure.csproj" />
+</Solution>
