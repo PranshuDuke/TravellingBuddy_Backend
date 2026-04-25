@@ -1,6 +1,0 @@
-@TravellingBuddy.API_HostAddress = http://localhost:5037
-
-GET {{TravellingBuddy.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

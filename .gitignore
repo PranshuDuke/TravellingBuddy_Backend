@@ -3,3 +3,47 @@
 ################################################################################
 
 /.vs/TravellingBuddy.slnx/FileContentIndex
+/TravellingBuddy.API/bin/Debug/net10.0
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+**/bin/
+**/obj/
+bin/
+obj/
+
+# Rider, VS Code
+.idea/
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+.nuget/
+
+# Test results
+TestResults/
+*.trx
+
+# EF Migrations model snapshot binaries / DB files (if any)
+*.db
+*.mdf
+*.ldf
+
+# Logs, caches
+*.log
+*.cache
+
+# Secrets & local settings (untracked if you keep secrets locally)
+appsettings.Development.json
+secrets.json
+
+# OS files
+Thumbs.db
+desktop.ini
